@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Pretraži</string>
+    <string name="favorite_movies">Moji omiljeni filmovi</string>
+    <string name="upcoming_movies">Nadolazeći filmovi</string>
+    <string name="favorite">Omiljeni</string>
+    <string name="upcoming_movies_description">Najnoviji filmovi koji se prikazuju u kinima i streaming platformama</string>
+    <string name="actors">Glumci</string>
+    <string name="similar_movies">Slični filmovi</string>
+</resources>

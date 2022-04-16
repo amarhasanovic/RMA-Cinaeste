@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Cineaste</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorites</string>
+    <string name="favorite_movies">My favorite movies</string>
+    <string name="upcoming_movies">Upcoming movies</string>
+    <string name="upcoming_movies_description">Latest movies playing in theaters and streaming platforms</string>
+    <string name="actors">Actors</string>
+    <string name="similar_movies">Similar Movies</string>
+</resources>
